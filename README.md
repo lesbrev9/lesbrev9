@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lesbrev9, a highschool student looking to start their career in tech.
 - 👀 I’m interested in Comp Sci
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Down to any collabs <:
 - 📫 How to reach me >>> rev0uwu@gmail.com
 
 <!---
